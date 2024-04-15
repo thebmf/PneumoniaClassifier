@@ -1,0 +1,8 @@
+matplotlib
+numpy
+opencv-python  # or opencv-python-headless if no GUI functionality is required
+pandas
+Pillow  # Known as PIL in the import, but the package name is Pillow
+scikit-learn
+seaborn
+tensorflow
